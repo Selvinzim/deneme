@@ -1,0 +1,233 @@
+ 
+
+# Bayt-derlenmiş / optimize edilmiş / DLL dosyaları
+
+__pycache__ /
+
+* .py [ kod ]
+
+* $py.sınıf
+
+# C uzantıları
+
+* .so
+
+# Dağıtım / paketleme
+
+.Python
+
+inşa /
+
+yumurta geliştirmek /
+
+uzak /
+
+indirmeler /
+
+yumurta /
+
+.yumurtalar /
+
+kitap /
+
+lib64 /
+
+parçalar /
+
+sdist /
+
+var /
+
+tekerlekler /
+
+paylaş / piton tekerlekleri /
+
+* .yumurta bilgisi /
+
+.kurulu.cfg
+
+* .yumurta
+
+BELİRGİN
+
+# PyYükleyici
+
+#   Genellikle bu dosyalar bir şablondan bir python betiği tarafından yazılır
+
+#   PyInstaller, içine tarih/diğer bilgileri enjekte etmek için exe'yi oluşturmadan önce.
+
+* .manifest
+
+* .spec
+
+# Yükleyici günlükleri
+
+pip-log.txt
+
+pip-delete-this-directory.txt
+
+# Birim testi / kapsam raporları
+
+htmlcov /
+
+.toksik /
+
+.nox /
+
+.kapsama
+
+.kapsama. *
+
+.cache
+
+burun testleri.xml
+
+kapsama.xml
+
+* .kapak
+
+* .py,kapak
+
+.hipotez /
+
+.pytest_cache /
+
+kapak /
+
+# Çeviriler
+
+* .mo
+
+* .pot
+
+# Django malzemeleri:
+
+* .log
+
+local_settings.py
+
+db.sqlite3
+
+db.sqlite3-dergi
+
+# Şişe malzemesi:
+
+örnek /
+
+.webassets-önbellek
+
+# Hurda şeyler:
+
+.scrapy
+
+# Sfenks belgeleri
+
+belgeler / _build /
+
+# PyBuilder
+
+.pybuilder /
+
+hedef /
+
+# Jüpiter Not Defteri
+
+.ipynb_checkpoints
+
+# IPython
+
+profile_default /
+
+ipython_config.py
+
+# pyenv
+
+#    Bir kitaplık veya paket için, kod
+
+#    birden çok ortamda çalışması amaçlandı; aksi takdirde, bunları kontrol edin:
+
+# .python sürümü
+
+# borunv
+
+#    pypa/pipenv#598'e göre sürüm kontrolüne Pipfile.lock eklenmesi önerilir.
+
+#    Ancak işbirliği durumunda, platforma özgü bağımlılıklar veya bağımlılıklar varsa
+
+#    platformlar arası desteği olmayan pipenv, çalışmayan veya çalışmayan bağımlılıkları yükleyebilir
+
+#    gerekli tüm bağımlılıkları kurun.
+
+# Pipfile.lock
+
+# PEP 582; örneğin github.com/David-OConnor/pyflow tarafından kullanılır
+
+__pypackages__ /
+
+# Kereviz şeyler
+
+kereviz-programı
+
+celerybeat.pid
+
+# SageMath ayrıştırılmış dosyalar
+
+* .sage.py
+
+# Ortamlar
+
+.env
+
+.venv
+
+ortam /
+
+venv /
+
+ENV /
+
+env.bak /
+
+venv.bak /
+
+# Spyder proje ayarları
+
+.spyderproject
+
+.spyproject
+
+# Halat proje ayarları
+
+.ropeproject
+
+# mkdocs belgeleri
+
+/ site
+
+# mypy
+
+.mypy_cache /
+
+.dmypy.json
+
+dmypy.json
+
+# Ateş türü denetleyicisi
+
+.ateş /
+
+# pytype statik tip analizörü
+
+.pytype /
+
+# Cython hata ayıklama sembolleri
+
+cython_debug /
+
+.vscode /
+
+yapılandırma.json
+
+chatid_usersid.json
+
+* .oturum
